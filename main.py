@@ -3,7 +3,7 @@ import flet as ft
 from PIL import Image
 
 # Load the image to be displayed in the tray
-tray_image = Image.open("icon.png")
+tray_image = Image.open("tray_img.png")
 p: ft.Page  # Global variable for the Flet page
 
 def exit_app(icon, query):
