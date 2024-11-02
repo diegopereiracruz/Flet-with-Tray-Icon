@@ -17,5 +17,5 @@ pip install -r requirements.txt
 ```
 
 ### Capture
-![tray gif](https://user-images.githubusercontent.com/98978078/211149906-b44ee4a0-a668-4678-914c-20e6a346d63e.gif)
+TODO: Add a capture gif
 
